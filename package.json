@@ -5,7 +5,7 @@
     "main": "index.js",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/DavidBriglio/cordova-clean.git"
+        "url": "git+https://github.com/MPSoftDenmark/cordova-clean.git"
     },
     "keywords": [
         "cordova",
@@ -16,12 +16,12 @@
         "platforms",
         "clean"
     ],
-    "author": "David Briglio",
+    "author": "Original author David Briglio",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/DavidBriglio/cordova-clean/issues"
+        "url": "https://github.com/MPSoftDenmark/cordova-clean/issues"
     },
-    "homepage": "https://github.com/DavidBriglio/cordova-clean#readme",
+    "homepage": "https://github.com/MPSoftDenmark/cordova-clean#readme",
     "bin": {
         "cordova-clean": "./src/index.js"
     }
