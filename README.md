@@ -2,6 +2,11 @@
 
 This tries to fix the issue of inconsistent cordova plugins/platforms of a project when working in different branches. It can remove all installed plugins/platforms and install all plugins/platforms listed in the package.json file. This avoids the case of having left over plugins/platforms from other branches installed, and if a plugin has been updated without updating the version number.
 
+
+## How To Install this foark
+
+sudo npm install git+https://github.com/MPSoftDenmark/cordova-clean.git -g
+
 ## How To Install
 
 Install through npm:
